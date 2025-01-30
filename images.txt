@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 gitea/gitea:1.22.6
 mysql:5.7
-linkease/desktop-ubuntu2-standard-amd64:latest
+amtoaer/bili-sync-rs:v2.3.0

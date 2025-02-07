@@ -7,3 +7,4 @@ xhofe/alist:latest
 gitea/gitea:1.22.6
 mysql:5.7
 xhofe/alist:latest
+portainer

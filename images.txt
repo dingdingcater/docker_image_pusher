@@ -5,4 +5,3 @@ xhofe/alist:latest
 xhofe/alist:latest
 portainer/portainer:latest
 6053537/portainer-ce:2.24.1
-

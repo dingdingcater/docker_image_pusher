@@ -3,4 +3,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 xhofe/alist:latest
-portainer/portainer:linux-amd64-2.0.1
+portainer/portainer:latest

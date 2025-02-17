@@ -4,4 +4,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 xhofe/alist:latest
 portainer/portainer:latest
-6053537/portainer:2.19.4
+6053537/portainer-ce:2.24.1
+

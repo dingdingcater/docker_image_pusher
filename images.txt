@@ -4,4 +4,4 @@
 --platform=linux/arm64 xiaoyaliu/alist
 xhofe/alist:latest
 portainer/portainer:latest
-homeassistant/aarch64-homeassistant:2026.6.1
+--platform=linux/aarch64 homeassistant/aarch64-homeassistant:2026.6.1

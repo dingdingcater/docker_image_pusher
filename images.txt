@@ -5,4 +5,6 @@
 #xhofe/alist:latest
 #portainer/portainer:latest
 #--platform=linux/aarch64 homeassistant/aarch64-homeassistant:2026.6.1
---platform=linux/aarch64 eclipse-mosquitto:latest
+#--platform=linux/aarch64 eclipse-mosquitto:latest
+--platform=linux/amd64 eclipse-mosquitto:latest
+--platform=linux/amd64 homeassistant/amd64-homeassistant:2026.6.1

@@ -1,8 +1,8 @@
 #支持私库
 #支持指定架构
 #新增ha
---platform=linux/arm64 xiaoyaliu/alist
-xhofe/alist:latest
-portainer/portainer:latest
---platform=linux/aarch64 homeassistant/aarch64-homeassistant:2026.6.1
+#--platform=linux/arm64 xiaoyaliu/alist
+#xhofe/alist:latest
+#portainer/portainer:latest
+#--platform=linux/aarch64 homeassistant/aarch64-homeassistant:2026.6.1
 --platform=linux/aarch64 eclipse-mosquitto:latest

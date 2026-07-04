@@ -11,3 +11,4 @@
 --platform=linux/amd64 qq1582185982/bili-sync:v3.0.9.1
 --platform=linux/amd64 openlistteam/openlist:latest
 --platform=linux/amd64 nodered/node-red:latest
+--platform=linux/amd64 stormyyd/115:2.0.10.2

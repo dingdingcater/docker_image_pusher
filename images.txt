@@ -6,9 +6,9 @@
 #portainer/portainer:latest
 #--platform=linux/aarch64 homeassistant/aarch64-homeassistant:2026.6.1
 #--platform=linux/aarch64 eclipse-mosquitto:latest
---platform=linux/amd64 eclipse-mosquitto:latest
---platform=linux/amd64 homeassistant/amd64-homeassistant:2026.6.1
---platform=linux/amd64 qq1582185982/bili-sync:v3.0.9.1
---platform=linux/amd64 openlistteam/openlist:latest
---platform=linux/amd64 nodered/node-red:latest
+#--platform=linux/amd64 eclipse-mosquitto:latest
+#--platform=linux/amd64 homeassistant/amd64-homeassistant:2026.6.1
+#--platform=linux/amd64 qq1582185982/bili-sync:v3.0.9.1
+#--platform=linux/amd64 openlistteam/openlist:latest
+#--platform=linux/amd64 nodered/node-red:latest
 --platform=linux/amd64 stormyyd/115:2.0.10.2

@@ -13,4 +13,5 @@
 #--platform=linux/amd64 nodered/node-red:latest
 #--platform=linux/amd64 stormyyd/115:2.0.10.2
 #--platform=linux/arm64 syncthing/syncthing:latest
---platform=linux/aarch64 python:3.10.20-slim
+#--platform=linux/aarch64 python:3.10.20-slim
+--platform=linux/aarch64 python:3.11.2-slim
